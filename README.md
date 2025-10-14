@@ -18,9 +18,7 @@ To explore and navigate the Linux file system using essential terminal commands.
 **Highlights:**
 - File creation, movement, and deletion using `cp`, `mv`, `rm`, and `cat`
 - Use of `man` pages for command documentation
-- Understanding file permissions and directory structures  
-📄 *Files:*  
-- [`Lab1/lab1_summary.pdf`](Lab1/lab1_summary.pdf)  
+- Understanding file permissions and directory structures   
 📷 *Screenshots:*  
 Located under `Lab1/lab1_screenshots/`
 
@@ -32,9 +30,7 @@ To learn how to install, update, and manage software packages using APT in Kali 
 **Highlights:**
 - Configuring `/etc/apt/sources.list`
 - Installing and removing packages (`apt install`, `apt remove`)
-- Troubleshooting dependency and repository issues  
-📄 *Files:*  
-- [`Lab2/lab2_summary.pdf`](Lab2/lab2_summary.pdf)  
+- Troubleshooting dependency and repository issues   
 📷 *Screenshots:*  
 Located under `Lab2/lab2_screenshots/`
 
@@ -48,8 +44,6 @@ To analyze and troubleshoot network connectivity and configuration.
 - Testing connectivity with `ping` and `nmcli`  
 - Monitoring traffic with `tcpdump`  
 - Checking firewall status (`ufw`)  
-📄 *Files:*  
-- [`Lab3/lab3_summary.pdf`](Lab3/lab3_summary.pdf)  
 📷 *Screenshots:*  
 Located under `Lab3/lab3_screenshots/`
 
@@ -74,7 +68,7 @@ Through these labs, I:
 
 ## 🌐 Connect with Me
 📧 Email: [kunlealexdeyrel@gmail.com](mailto:kunlealexdeyrel@gmail.com)  
-💼 LinkedIn: [linkedin.com/in/alex-ayoola01](https://www.linkedin.com/in/alex-ayoola01/)  
+💼 LinkedIn: [linkedin.com/in/alex-ayoola01](https://www.linkedin.com/in/alex-ayoola/)  
 🛠 GitHub: [github.com/AAyoola01](https://github.com/AAyoola01)
 
 ---
